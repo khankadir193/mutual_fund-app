@@ -1,0 +1,214 @@
+{
+  "funds": [
+    {
+      "id": 1,
+      "name": "Equity Growth Fund",
+      "type": "Equity",
+      "nav": 150,
+      "returns": { "oneyear": "12%", "threeyear": "18%", "fiveyear": "25%" }
+    },
+    {
+      "id": 2,
+      "name": "Balanced Fund",
+      "type": "Hybrid",
+      "nav": 120,
+      "returns": { "oneyear": "8%", "threeyear": "12%", "fiveyear": "15%" }
+    },
+    {
+      "id": 3,
+      "name": "Debt Income Fund",
+      "type": "Debt",
+      "nav": 100,
+      "returns": { "oneyear": "6%", "threeyear": "7%", "fiveyear": "10%" }
+    },
+    {
+      "id": 4,
+      "name": "Bluechip Fund",
+      "type": "Equity",
+      "nav": 200,
+      "returns": { "oneyear": "15%", "threeyear": "20%", "fiveyear": "30%" }
+    },
+    {
+      "id": 5,
+      "name": "Smallcap Stars Fund",
+      "type": "Equity",
+      "nav": 90,
+      "returns": { "oneyear": "18%", "threeyear": "24%", "fiveyear": "35%" }
+    },
+    {
+      "id": 6,
+      "name": "Corporate Bond Fund",
+      "type": "Debt",
+      "nav": 130,
+      "returns": { "oneyear": "5%", "threeyear": "6%", "fiveyear": "9%" }
+    },
+    {
+      "id": 7,
+      "name": "Midcap Opportunity Fund",
+      "type": "Equity",
+      "nav": 170,
+      "returns": { "oneyear": "14%", "threeyear": "19%", "fiveyear": "28%" }
+    },
+    {
+      "id": 8,
+      "name": "Dynamic Asset Allocation Fund",
+      "type": "Hybrid",
+      "nav": 110,
+      "returns": { "oneyear": "10%", "threeyear": "14%", "fiveyear": "18%" }
+    },
+    {
+      "id": 9,
+      "name": "Gilt Fund",
+      "type": "Debt",
+      "nav": 140,
+      "returns": { "oneyear": "4%", "threeyear": "6%", "fiveyear": "8%" }
+    },
+    {
+      "id": 10,
+      "name": "Index Fund",
+      "type": "Equity",
+      "nav": 250,
+      "returns": { "oneyear": "12%", "threeyear": "16%", "fiveyear": "20%" }
+    },
+    {
+      "id": 11,
+      "name": "Largecap Dividend Fund",
+      "type": "Equity",
+      "nav": 210,
+      "returns": { "oneyear": "13%", "threeyear": "18%", "fiveyear": "25%" }
+    },
+    {
+      "id": 12,
+      "name": "Liquid Income Fund",
+      "type": "Debt",
+      "nav": 50,
+      "returns": { "oneyear": "3%", "threeyear": "4%", "fiveyear": "5%" }
+    },
+    {
+      "id": 13,
+      "name": "Conservative Hybrid Fund",
+      "type": "Hybrid",
+      "nav": 95,
+      "returns": { "oneyear": "7%", "threeyear": "9%", "fiveyear": "11%" }
+    },
+    {
+      "id": 14,
+      "name": "Aggressive Growth Fund",
+      "type": "Equity",
+      "nav": 180,
+      "returns": { "oneyear": "20%", "threeyear": "25%", "fiveyear": "35%" }
+    },
+    {
+      "id": 15,
+      "name": "High Yield Fund",
+      "type": "Debt",
+      "nav": 105,
+      "returns": { "oneyear": "7%", "threeyear": "8%", "fiveyear": "10%" }
+    },
+    {
+      "id": 16,
+      "name": "Emerging Markets Fund",
+      "type": "Equity",
+      "nav": 300,
+      "returns": { "oneyear": "17%", "threeyear": "22%", "fiveyear": "30%" }
+    },
+    {
+      "id": 17,
+      "name": "Retirement Savings Fund",
+      "type": "Hybrid",
+      "nav": 125,
+      "returns": { "oneyear": "10%", "threeyear": "13%", "fiveyear": "16%" }
+    },
+    {
+      "id": 18,
+      "name": "Short-Term Income Fund",
+      "type": "Debt",
+      "nav": 70,
+      "returns": { "oneyear": "4%", "threeyear": "5%", "fiveyear": "7%" }
+    },
+    {
+      "id": 19,
+      "name": "Tax Saver Equity Fund",
+      "type": "Equity",
+      "nav": 160,
+      "returns": { "oneyear": "15%", "threeyear": "19%", "fiveyear": "25%" }
+    },
+    {
+      "id": 20,
+      "name": "Global Diversified Fund",
+      "type": "Equity",
+      "nav": 350,
+      "returns": { "oneyear": "14%", "threeyear": "18%", "fiveyear": "22%" }
+    },
+    {
+      "id": 21,
+      "name": "Arbitrage Fund",
+      "type": "Hybrid",
+      "nav": 90,
+      "returns": { "oneyear": "5%", "threeyear": "7%", "fiveyear": "10%" }
+    },
+    {
+      "id": 22,
+      "name": "Income Advantage Fund",
+      "type": "Debt",
+      "nav": 60,
+      "returns": { "oneyear": "6%", "threeyear": "7%", "fiveyear": "9%" }
+    },
+    {
+      "id": 23,
+      "name": "Value Equity Fund",
+      "type": "Equity",
+      "nav": 190,
+      "returns": { "oneyear": "18%", "threeyear": "22%", "fiveyear": "29%" }
+    },
+    {
+      "id": 24,
+      "name": "Conservative Bond Fund",
+      "type": "Debt",
+      "nav": 80,
+      "returns": { "oneyear": "5%", "threeyear": "6%", "fiveyear": "8%" }
+    },
+    {
+      "id": 25,
+      "name": "Thematic Fund",
+      "type": "Equity",
+      "nav": 230,
+      "returns": { "oneyear": "16%", "threeyear": "20%", "fiveyear": "27%" }
+    },
+    {
+      "id": 26,
+      "name": "Multi-Asset Allocation Fund",
+      "type": "Hybrid",
+      "nav": 115,
+      "returns": { "oneyear": "9%", "threeyear": "12%", "fiveyear": "15%" }
+    },
+    {
+      "id": 27,
+      "name": "Ultra Short-Term Fund",
+      "type": "Debt",
+      "nav": 65,
+      "returns": { "oneyear": "3%", "threeyear": "4%", "fiveyear": "6%" }
+    },
+    {
+      "id": 28,
+      "name": "Smallcap Wealth Fund",
+      "type": "Equity",
+      "nav": 175,
+      "returns": { "oneyear": "20%", "threeyear": "26%", "fiveyear": "34%" }
+    },
+    {
+      "id": 29,
+      "name": "International Growth Fund",
+      "type": "Equity",
+      "nav": 270,
+      "returns": { "oneyear": "13%", "threeyear": "17%", "fiveyear": "21%" }
+    },
+    {
+      "id": 30,
+      "name": "Dividend Yield Fund",
+      "type": "Equity",
+      "nav": 195,
+      "returns": { "oneyear": "11%", "threeyear": "15%", "fiveyear": "20%" }
+    }
+  ]
+}
