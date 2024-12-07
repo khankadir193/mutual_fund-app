@@ -55,7 +55,7 @@ const MutualFundComponent = () => {
     }, []); // Dependency array ensures this runs only once on mount
 
     return (
-        <div>
+        <div className="container">
             {
                 data.map((item) => {
                     return (
